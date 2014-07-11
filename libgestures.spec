@@ -5,7 +5,7 @@
 Summary:	ChromiumOS libgestures modified to compile for Linux
 Name:		libgestures
 Version:	0.1
-Release:	0.2
+Release:	0.3
 License:	LGPLv2+
 Group:		System/Libraries
 Url:		https://chromium.googlesource.com/chromiumos/platform/gestures/
