@@ -10,6 +10,7 @@ License:	LGPLv2+
 Group:		System/Libraries
 Url:		https://chromium.googlesource.com/chromiumos/platform/gestures/
 Source0:	%{name}.tar.bz2
+BuildRequires:	make
 BuildRequires:	jsoncpp-devel
 BuildRequires:	gtest-devel
 BuildRequires:	pkgconfig(glib-2.0)
